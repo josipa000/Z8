@@ -1,0 +1,24 @@
+.menu { background-color: pink;
+}
+body { background-image: url(../pozadina/pozadina_slika.jpg);
+}
+
+.orbit,
+.container {
+  margin-top: 48px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: pink;
+  opacity: 0.9;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.callout {
+
+    padding: 4rem;
+    margin-top: 5rem;
+}
+
+
